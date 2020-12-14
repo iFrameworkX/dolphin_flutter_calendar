@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fcc781a-103a-4302-95d6-03231c9d376c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lZ5gdcdc8Egv28GrtaRYke1fij" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fcc781a-103a-4302-95d6-03231c9d376c" name="Default Changelist" comment="" />
+      <created>1607791884695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607791884695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="51" width="578" height="457" key="#Notifications" timestamp="1607828069155">
+      <screen x="0" y="25" width="1280" height="733" />
+    </state>
+    <state x="463" y="51" width="578" height="457" key="#Notifications/0.25.1280.733@0.25.1280.733" timestamp="1607828069155" />
+    <state width="1218" height="170" key="GridCell.Tab.0.bottom" timestamp="1607828091524">
+      <screen x="0" y="25" width="1280" height="733" />
+    </state>
+    <state width="1218" height="170" key="GridCell.Tab.0.bottom/0.25.1280.733@0.25.1280.733" timestamp="1607828091524" />
+    <state width="1218" height="170" key="GridCell.Tab.0.center" timestamp="1607828091524">
+      <screen x="0" y="25" width="1280" height="733" />
+    </state>
+    <state width="1218" height="170" key="GridCell.Tab.0.center/0.25.1280.733@0.25.1280.733" timestamp="1607828091524" />
+    <state width="1218" height="170" key="GridCell.Tab.0.left" timestamp="1607828091524">
+      <screen x="0" y="25" width="1280" height="733" />
+    </state>
+    <state width="1218" height="170" key="GridCell.Tab.0.left/0.25.1280.733@0.25.1280.733" timestamp="1607828091524" />
+    <state width="1218" height="170" key="GridCell.Tab.0.right" timestamp="1607828091524">
+      <screen x="0" y="25" width="1280" height="733" />
+    </state>
+    <state width="1218" height="170" key="GridCell.Tab.0.right/0.25.1280.733@0.25.1280.733" timestamp="1607828091524" />
+    <state x="78" y="29" key="SettingsEditor" timestamp="1607828016495">
+      <screen x="0" y="25" width="1280" height="733" />
+    </state>
+    <state x="78" y="29" key="SettingsEditor/0.25.1280.733@0.25.1280.733" timestamp="1607828016495" />
+  </component>
+</project>
